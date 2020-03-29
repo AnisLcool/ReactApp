@@ -1,0 +1,39 @@
+body{
+    background-image: url('../tft.jpg');
+    background-size: cover;
+}
+.galactic{
+    background: #6D62E3;
+}
+@font-face {
+font-family: 'SEGA LOGO FONT';
+font-style: normal;
+font-weight: normal;
+src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+}
+h1{
+    font-family: 'SEGA LOGO FONT';
+    color:  #f0e1f7;
+    font-weight: 200
+}
+h2{
+    font-size: 30px;
+    font-family: Lobster;
+    color:#352470;
+}
+p{
+    font-family: Righteous;
+    font-size: 20px;
+}
+.origin{
+    color:#F78F78;
+}
+.class{
+    color:#e479ea;
+}
+.tier{
+    color: #df96ff;
+}
+.mainTitle{
+    color: ;
+}
