@@ -5,6 +5,7 @@ import { champs } from './../data/Champions.js'
 import Scroll from './../components/Scroll.js';
 import 'tachyons';
 import './../components/Card.css';
+import ErrorBoundry from './../components/errorBoundry.js';
 
 class App extends Component {
     constructor() {
@@ -33,7 +34,9 @@ class App extends Component {
         <SearchBox searchChange={this.onSearchChange}/>
         
         <Scroll>
-        <CardList champs={filterChamps}/>
+        <ErrorBoundry>
+            <CardList champs={filterChamps}/>
+        </ErrorBoundry>
         </Scroll>
         </div>
         );

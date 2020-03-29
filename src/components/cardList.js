@@ -3,6 +3,9 @@ import React from 'react';
 import Card from './Card.js';
 
 const CardList = ({ champs }) => {
+    // if(true){
+    //     throw new Error('alert, there is an error')
+    // }
 
     const cardCollection = champs.map((champ, index) => {
         return (
