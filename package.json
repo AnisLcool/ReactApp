@@ -12,7 +12,7 @@
     "react-scripts": "3.4.1",
     "tachyons": "^4.11.1"
   },
-  "homepage": "https://AnisLcool.github.io/ReactApp",
+  "homepage": "https://AnisLcool.github.io/ReactApp/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy" : "gh-pages -d build",
