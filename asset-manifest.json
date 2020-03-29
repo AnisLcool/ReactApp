@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/ReactApp/static/css/main.7fbf2311.chunk.css",
+    "main.js": "/ReactApp/static/js/main.6ac038ab.chunk.js",
+    "main.js.map": "/ReactApp/static/js/main.6ac038ab.chunk.js.map",
+    "runtime-main.js": "/ReactApp/static/js/runtime-main.8193f0d0.js",
+    "runtime-main.js.map": "/ReactApp/static/js/runtime-main.8193f0d0.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/ReactApp/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.347054ba.chunk.js": "/ReactApp/static/js/2.347054ba.chunk.js",
+    "static/js/2.347054ba.chunk.js.map": "/ReactApp/static/js/2.347054ba.chunk.js.map",
+    "index.html": "/ReactApp/index.html",
+    "precache-manifest.3ce203d0616f7f1d4163e6f1351055dd.js": "/ReactApp/precache-manifest.3ce203d0616f7f1d4163e6f1351055dd.js",
+    "service-worker.js": "/ReactApp/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/ReactApp/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.7fbf2311.chunk.css.map": "/ReactApp/static/css/main.7fbf2311.chunk.css.map",
+    "static/js/2.347054ba.chunk.js.LICENSE.txt": "/ReactApp/static/js/2.347054ba.chunk.js.LICENSE.txt",
+    "static/media/Card.css": "/ReactApp/static/media/tft.22ee4042.jpg",
+    "static/media/ahri.jpg": "/ReactApp/static/media/ahri.9721e8ec.jpg",
+    "static/media/ashe.jpg": "/ReactApp/static/media/ashe.84749ed2.jpg",
+    "static/media/ekko.jpg": "/ReactApp/static/media/ekko.e443c5b9.jpg",
+    "static/media/ezreal.jpg": "/ReactApp/static/media/ezreal.fe3d7267.jpg",
+    "static/media/jayce.jpg": "/ReactApp/static/media/jayce.e33abeb5.jpg",
+    "static/media/jhin.jpg": "/ReactApp/static/media/jhin.1916b8e0.jpg",
+    "static/media/jinx.jpg": "/ReactApp/static/media/jinx.105be1ca.jpg",
+    "static/media/kaisa.jpg": "/ReactApp/static/media/kaisa.b8d987c3.jpg",
+    "static/media/kayle.jpg": "/ReactApp/static/media/kayle.57823065.jpg",
+    "static/media/lucian.jpg": "/ReactApp/static/media/lucian.9594f31d.jpg",
+    "static/media/yasuo.jpg": "/ReactApp/static/media/yasuo.06751873.jpg",
+    "static/media/ziggz.jpg": "/ReactApp/static/media/ziggz.7af61b15.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8193f0d0.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.347054ba.chunk.js",
+    "static/css/main.7fbf2311.chunk.css",
+    "static/js/main.6ac038ab.chunk.js"
+  ]
+}
