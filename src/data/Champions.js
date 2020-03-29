@@ -69,7 +69,27 @@ export const champs = [
    name: "Ashe",
     origin:"Celestial",
     class:"Sniper",
-    tier : 3,  
+    tier : 3,
+    
+
+},
+{
+    name: "Kassadin",
+    origin:"Celestial",
+    class:"Mana-Reaver",
+    tier : 3
+},
+{
+    name: "Zoe",
+    origin:"Star Guardian",
+    class:"Sorcerer",
+    tier : 1
+},
+{
+    name: "Miss Fortune",
+    origin:"Valkyrie",
+    class:"Blaster",
+    tier : 5
 }
 
 ].sort((second, first) => second.name > first.name ? 1 : -1);
