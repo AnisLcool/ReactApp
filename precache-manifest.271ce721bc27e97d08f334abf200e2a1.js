@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c85630f8c37e9037c4f584b871ba57de",
+    "revision": "172138e7f8e9b5c5c6a4c0aefeac0adf",
     "url": "/ReactApp/index.html"
   },
   {
-    "revision": "c8fe99e6e7f67f0c0607",
+    "revision": "09566649728f65a54288",
     "url": "/ReactApp/static/css/2.3b6f1bda.chunk.css"
   },
   {
-    "revision": "3f9d8066a0a17c46d70a",
+    "revision": "427fe974a0b471c78040",
     "url": "/ReactApp/static/css/main.7fbf2311.chunk.css"
   },
   {
-    "revision": "c8fe99e6e7f67f0c0607",
-    "url": "/ReactApp/static/js/2.347054ba.chunk.js"
+    "revision": "09566649728f65a54288",
+    "url": "/ReactApp/static/js/2.da5ef156.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/ReactApp/static/js/2.347054ba.chunk.js.LICENSE.txt"
+    "url": "/ReactApp/static/js/2.da5ef156.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3f9d8066a0a17c46d70a",
-    "url": "/ReactApp/static/js/main.6ac038ab.chunk.js"
+    "revision": "427fe974a0b471c78040",
+    "url": "/ReactApp/static/js/main.de07a3d5.chunk.js"
   },
   {
     "revision": "4f9a005907a8fa3bcb7d",
@@ -64,12 +64,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReactApp/static/media/kaisa.b8d987c3.jpg"
   },
   {
+    "revision": "9663a70c28d3bd736371f93421bd0de7",
+    "url": "/ReactApp/static/media/kassadin.9663a70c.jpg"
+  },
+  {
     "revision": "5782306516ae0cb5dc35414c3aeba251",
     "url": "/ReactApp/static/media/kayle.57823065.jpg"
   },
   {
     "revision": "9594f31dc1209f0855d6c900439981a5",
     "url": "/ReactApp/static/media/lucian.9594f31d.jpg"
+  },
+  {
+    "revision": "521b6e7d112aa67f37137b7cf07ce2b5",
+    "url": "/ReactApp/static/media/miss fortune.521b6e7d.jpg"
   },
   {
     "revision": "22ee4042f56a60a43930ec250b92de64",
@@ -82,5 +90,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7af61b151398b79d0765fcb3aedeb8cc",
     "url": "/ReactApp/static/media/ziggz.7af61b15.jpg"
+  },
+  {
+    "revision": "04eb8df1a6c33f2179d60404a30312e1",
+    "url": "/ReactApp/static/media/zoe.04eb8df1.jpg"
   }
 ]);

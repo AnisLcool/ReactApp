@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ReactApp/static/css/main.7fbf2311.chunk.css",
-    "main.js": "/ReactApp/static/js/main.6ac038ab.chunk.js",
-    "main.js.map": "/ReactApp/static/js/main.6ac038ab.chunk.js.map",
+    "main.js": "/ReactApp/static/js/main.de07a3d5.chunk.js",
+    "main.js.map": "/ReactApp/static/js/main.de07a3d5.chunk.js.map",
     "runtime-main.js": "/ReactApp/static/js/runtime-main.8193f0d0.js",
     "runtime-main.js.map": "/ReactApp/static/js/runtime-main.8193f0d0.js.map",
     "static/css/2.3b6f1bda.chunk.css": "/ReactApp/static/css/2.3b6f1bda.chunk.css",
-    "static/js/2.347054ba.chunk.js": "/ReactApp/static/js/2.347054ba.chunk.js",
-    "static/js/2.347054ba.chunk.js.map": "/ReactApp/static/js/2.347054ba.chunk.js.map",
+    "static/js/2.da5ef156.chunk.js": "/ReactApp/static/js/2.da5ef156.chunk.js",
+    "static/js/2.da5ef156.chunk.js.map": "/ReactApp/static/js/2.da5ef156.chunk.js.map",
     "index.html": "/ReactApp/index.html",
-    "precache-manifest.3ce203d0616f7f1d4163e6f1351055dd.js": "/ReactApp/precache-manifest.3ce203d0616f7f1d4163e6f1351055dd.js",
+    "precache-manifest.271ce721bc27e97d08f334abf200e2a1.js": "/ReactApp/precache-manifest.271ce721bc27e97d08f334abf200e2a1.js",
     "service-worker.js": "/ReactApp/service-worker.js",
     "static/css/2.3b6f1bda.chunk.css.map": "/ReactApp/static/css/2.3b6f1bda.chunk.css.map",
     "static/css/main.7fbf2311.chunk.css.map": "/ReactApp/static/css/main.7fbf2311.chunk.css.map",
-    "static/js/2.347054ba.chunk.js.LICENSE.txt": "/ReactApp/static/js/2.347054ba.chunk.js.LICENSE.txt",
+    "static/js/2.da5ef156.chunk.js.LICENSE.txt": "/ReactApp/static/js/2.da5ef156.chunk.js.LICENSE.txt",
     "static/media/Card.css": "/ReactApp/static/media/tft.22ee4042.jpg",
     "static/media/ahri.jpg": "/ReactApp/static/media/ahri.9721e8ec.jpg",
     "static/media/ashe.jpg": "/ReactApp/static/media/ashe.84749ed2.jpg",
@@ -23,16 +23,19 @@
     "static/media/jhin.jpg": "/ReactApp/static/media/jhin.1916b8e0.jpg",
     "static/media/jinx.jpg": "/ReactApp/static/media/jinx.105be1ca.jpg",
     "static/media/kaisa.jpg": "/ReactApp/static/media/kaisa.b8d987c3.jpg",
+    "static/media/kassadin.jpg": "/ReactApp/static/media/kassadin.9663a70c.jpg",
     "static/media/kayle.jpg": "/ReactApp/static/media/kayle.57823065.jpg",
     "static/media/lucian.jpg": "/ReactApp/static/media/lucian.9594f31d.jpg",
+    "static/media/miss fortune.jpg": "/ReactApp/static/media/miss fortune.521b6e7d.jpg",
     "static/media/yasuo.jpg": "/ReactApp/static/media/yasuo.06751873.jpg",
-    "static/media/ziggz.jpg": "/ReactApp/static/media/ziggz.7af61b15.jpg"
+    "static/media/ziggz.jpg": "/ReactApp/static/media/ziggz.7af61b15.jpg",
+    "static/media/zoe.jpg": "/ReactApp/static/media/zoe.04eb8df1.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8193f0d0.js",
     "static/css/2.3b6f1bda.chunk.css",
-    "static/js/2.347054ba.chunk.js",
+    "static/js/2.da5ef156.chunk.js",
     "static/css/main.7fbf2311.chunk.css",
-    "static/js/main.6ac038ab.chunk.js"
+    "static/js/main.de07a3d5.chunk.js"
   ]
 }
