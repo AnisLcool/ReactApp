@@ -3,7 +3,7 @@ import './Card.css';
 import 'tachyons';
 
 const Card_Component = ({name, origin, classs, tier}) => {
-    console.log("name : " , name.toLowerCase())
+    
     return (
         <div className="galactic dib br3 pa3 ma2 grow bw2 shadow-5">
 

@@ -6,13 +6,22 @@ import App from './containers/App';
 // import Card from './Card.js'
 // import CardList from './cardList.js';
 // import { champs } from './Champions.js'
+import {Provider, connect} from 'react-redux';
+import {createLogger} from 'redux-logger';
+import {createStore , applyMiddleware , combineReducers} from 'redux';
+import {searchChamps, requestData} from './reducers.js';
+import thunkMiddleware from 'redux-thunk'; 
 import * as serviceWorker from './serviceWorker';
 
+const logger = createLogger();
+const store = createStore(searchChamps, applyMiddleware(thunkMiddleware,logger));
+const rootReducer = combineReducers({searchChamps, requestData})
 ReactDOM.render(
     <React.StrictMode>
   <div>
+  <Provider store={store}>
      <App/>
-       
+  </Provider> 
 
   </div>
   </React.StrictMode>,
